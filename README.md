@@ -84,7 +84,7 @@ These constraints mean that most existing solutions are not designed for real sh
 
 Most translation tools were built for the world’s dominant languages. Hearth was built for the ones left out. 
 
-Hearth is a privacy-first, on-device communication tool designed for shelter workers and residents. Powered by Tiny Aya by Cohere, a multilingual model optimized for low-resource languages such as Amharic, Tigrinya, and Somali, it goes beyond traditional translation. Rather than acting as a one-way translator, Hearth functions as a low-friction communication layer that enables real-time, two-way conversations and supports connection, clarity, and understanding.
+Hearth is a privacy-first, on-device communication tool designed for shelter workers and residents. Powered by Tiny Aya by Cohere, a multilingual model optimized for low-resource languages such as Amharic, Hausa, and Swahili, it goes beyond traditional translation. Rather than acting as a one-way translator, Hearth functions as a low-friction communication layer that enables real-time, two-way conversations and supports connection, clarity, and understanding.
 
 ### Core Features
 - Real-time communication from voice → text → translation → speech, supporting back-and-forth interaction
